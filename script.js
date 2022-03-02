@@ -14,7 +14,7 @@
 		click_timecode_to_reset_speed: true, // true, false, or "speed_only"
 		speed_up_key: ">",
 		speed_down_key: "<",
-		speed_reset_key: "<",
+		speed_reset_key: ":",
 		speed_key_increment: 0.25,
 		minimum_speed: 0.25, // dont set this to 0, a speed of 0 will throw errors
 		selectable_speeds: [
