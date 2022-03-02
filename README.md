@@ -6,6 +6,8 @@ Once the script is loaded, just use <kbd>&lt;</kbd> (<kbd>Shift</kbd>+<kbd>,</kb
 
 Also adds the hotkey <kbd>:</kbd> (<kbd>Shift</kbd>+<kbd>;</kbd>) to reset speed to 1x.
 
-Using the settings menu also works, but its visuals are not properly updated when using the hotkeys, and the Custom option hasn't been tested.
+These keys and the amount they change by can be modified in the config object at the top of the file.
+
+Using the settings menu also works, but the Custom option hasn't been tested. Add your desired speed to the script config instead.
 
 Speed is tracked between videos on the same tab, but not across tabs or through refreshes.
